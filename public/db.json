@@ -1,0 +1,112 @@
+{"schools": [
+  {
+    "id": 1,
+    "image": "https://3dprint.com/wp-content/uploads/2015/09/mit_logo.gif",
+    "name": "Massachusetts Institute of Technology",
+    "rank": "1",
+    "foundedIn": "1861",
+    "location": "Cambridge, MA, USA",
+    "type": "private",
+    "graduationRate": "88%"
+  },
+  {
+    "id": 2,
+    "image": "https://i.pinimg.com/originals/98/c2/92/98c292abab9f0ad32e5c1791b1928f60.png",
+    "name": "University of Cambridge",
+    "rank": "2",
+    "foundedIn": "1209",
+    "location": "Cambridge, England",
+    "type": "public",
+    "graduationRate": "94%"
+  },
+  {
+    "id": 3,
+    "image": "https://collegecliffs.com/wp-content/uploads/2018/04/Stanford-University-logo.png",
+    "name": "Stanford University",
+    "rank": "3",
+    "foundedIn": "1885",
+    "location": "Stanford, CA, USA",
+    "type": "private",
+    "graduationRate": "81%"
+  },
+  {
+    "id": 4,
+    "image": "https://i.pinimg.com/originals/12/78/d8/1278d860cc844ce87c7601b6bb09c8c9.jpg",
+    "name": "University of Oxford",
+    "rank": "4",
+    "foundedIn": "1096",
+    "location": "Oxford, England",
+    "type": "public",
+    "graduationRate": "99%"
+  },
+  {
+    "id": 5,
+    "image": "https://cdn.freebiesupply.com/images/large/2x/harvard-logo-transparent.png",
+    "name": "Harvard University",
+    "rank": "5",
+    "foundedIn": "1636",
+    "location": "Cambridge, MA, USA",
+    "type": "private",
+    "graduationRate": "86%"
+  },
+  {
+    "id": 6,
+    "image": "https://www.earthbyte.org/wp-content/uploads/2015/08/Caltech_logo.png",
+    "name": "California Institute of Technology",
+    "rank": "6",
+    "foundedIn": "1891",
+    "location": "California, USA",
+    "type": "private",
+    "graduationRate": "79%"
+  },
+  {
+    "id": 7,
+    "image": "https://logos-download.com/wp-content/uploads/2020/06/Imperial_College_London_Logo.png",
+    "name": "Imperial College London",
+    "rank": "6",
+    "foundedIn": "1823",
+    "location": "London, UK",
+    "type": "public",
+    "graduationRate": "95%"
+  },
+  {
+    "id": 8,
+    "image": "https://ih1.redbubble.net/image.2107636058.1262/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+    "name": "University College London",
+    "rank": "7",
+    "foundedIn": "1826",
+    "location": "London, UK",
+    "type": "public",
+    "graduationRate": "95%"
+  },
+  {
+    "id": 9,
+    "image": "https://scipost.org/media/organizations/logos/Logo_CH_ETHZ.png",
+    "name": "Swiss Federal Institute of Technology",
+    "rank": "8",
+    "foundedIn": "1854",
+    "location": "Zurich, Switzerland",
+    "type": "public",
+    "graduationRate": "91%"
+  },
+  {
+    "id": 10,
+    "image": "https://wallpaperaccess.com/full/689513.png",
+    "name": "University of Chicago",
+    "rank": "9",
+    "foundedIn": "1890",
+    "location": "Chicago, USA",
+    "type": "private",
+    "graduationRate": "88%"
+  },
+  {
+    "id": 11,
+    "image": "https://logosandbrands.directory/wp-content/themes/directorypress/thumbs/National-University-of-Singapore-logo.jpg",
+    "name": "National University of Singapore",
+    "rank": "10",
+    "foundedIn": "1905",
+    "location": "Singapore, Singapore",
+    "type": "public",
+    "graduationRate": "70%"
+  }
+]}
